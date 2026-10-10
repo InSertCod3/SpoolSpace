@@ -1,0 +1,5 @@
+node_modules
+.next
+public/ffmpeg
+next-env.d.ts
+*.tsbuildinfo
